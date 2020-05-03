@@ -22,6 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-#The Gossip Project en rails version
+"#The Gossip Project en rails version"
 
 Project for THP ussing data bases
